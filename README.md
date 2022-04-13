@@ -1,3 +1,5 @@
-# Professional README Generator Starter Code
+# READ-ME-GENERATOR
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+## DESCRIPTION
+A command-line application that dynamically generates a professional README.md file from a user's-input.
+
