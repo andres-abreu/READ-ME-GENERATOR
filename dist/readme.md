@@ -24,4 +24,4 @@ This project is cover under the license type MIT
 [Click here for more information](https://opensource.org/licenses/MIT)
 ## Questions
 [GitHub Repo](https://github.com/andres-abreu)
-email: andresabreu.copyclaim@gmail.com
+email: aa@gmail.com
