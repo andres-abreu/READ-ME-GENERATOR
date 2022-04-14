@@ -28,3 +28,7 @@ email: aa@gmail.com
 
 ## READ-ME-GENERATOR-VIDEO-DEMO-LINK:
 https://drive.google.com/file/d/15ismMXp_Qp-Fpz7TmSkzetf8k9XUeFOt/view?usp=sharing
+
+## READ-ME-GEN-QUICK-VID.
+https://user-images.githubusercontent.com/94572199/163306047-eb38f1da-d6df-4819-8060-59ba84a8c4f8.mov
+
