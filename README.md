@@ -24,7 +24,6 @@ This project is cover under the license type MIT
 [Click here for more information](https://opensource.org/licenses/MIT)
 ## Questions
 [GitHub Repo](https://github.com/andres-abreu)
-email: aa@gmail.com
 
 ## READ-ME-GENERATOR-VIDEO-DEMO-LINK:
 https://drive.google.com/file/d/15ismMXp_Qp-Fpz7TmSkzetf8k9XUeFOt/view?usp=sharing
