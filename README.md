@@ -13,7 +13,7 @@ The motivation for this project is with the learning/obtaining the knowledge wit
 ## Installation
 For the installation of this application is with a simple clone, fork, download of this repository, then install the dependencies using the command "npm install inquirer."
 ## Usage
-Open your command-line, then type "node-index.js" to run the application, enter your github-username and email and answer the following prompted queries.
+Open your command-line, then type "node index.js" to run the application, enter your github-username and email and answer the following prompted queries.
 ## Contribution
 Not applicable at this time.
 ## Test
