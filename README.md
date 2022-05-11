@@ -12,7 +12,6 @@ The motivation for this project is with the learning/obtaining the knowledge wit
 - [Test](#test)
 - [License](#license)
 - [Questions](#questions)
-
 ## INSTALL/RUN-DIRECTIONS
 For the installation of this application is with a simple clone, fork, download of this repository, then install the dependencies using the command "npm install inquirer."
 
