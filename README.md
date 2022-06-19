@@ -10,7 +10,7 @@
     <br/>
 </div>
               
-The motivation for this project is with the learning/obtaining the knowledge with the steps, protocols, source-code-creation of a fast and effecient readme-file-process.  By doing so, this will conserve time and lessen human-error-typo's. The knowledge obtained was with the implementation of inquirer.js and how the questions and options were structured within the code itself and how it prompts for further questions and options.
+* The motivation for this project is with the learning/obtaining the knowledge with the steps, protocols, source-code-creation of a fast and effecient readme-file-process.  By doing so, this will conserve time and lessen human-error-typo's. The knowledge obtained was with the implementation of inquirer.js and how the questions and options were structured within the code itself and how it prompts for further questions and options.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -21,10 +21,10 @@ The motivation for this project is with the learning/obtaining the knowledge wit
 - [Questions](#questions)
 
 ## INSTALL/RUN-DIRECTIONS
-For the installation of this application is with a simple clone, fork, download of this repository, then install the dependencies using the command "npm install inquirer."
+* For the installation of this application is with a simple clone, fork, download of this repository, then install the dependencies using the command "npm install inquirer."
 
 ## Usage
-Open your command-line, then type "node index.js" to run the application, enter your github-username and email and answer the following prompted queries.
+* Open your command-line, then type "node index.js" to run the application, enter your github-username and email and answer the following prompted queries.
 
 ## Contribution
 Not applicable at this time.
@@ -36,6 +36,7 @@ Not applicable at this time.
 This project is cover under the license type MIT
       
 [Click here for more information](https://opensource.org/licenses/MIT)
+
 ## Questions
 [GitHub Repo](https://github.com/andres-abreu)
 
